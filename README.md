@@ -1,13 +1,9 @@
 <h1 align="center">
-   **Quantum Hacktoberfest 2020** - *Qubits, You & Open-Source*
+  <b>Quantum Hacktoberfest 2020</b> - <i>Qubits, You & Open-Source</i>
 </h1>
 
 
-![Author](https://img.shields.io/badge/author-garimasingh128-orange)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
-![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
-![Maintained](https://img.shields.io/maintenance/yes/2020)
-![GitHub issues](https://img.shields.io/github/issues/garimasingh128/Hacktoberfest2020-MovieDo?logo=github)
+![Author](https://img.shields.io/badge/author-ajay-cogsci-orange)
 
 <img src="main_poster.jpg" />
 
@@ -15,33 +11,23 @@
   A responsive movie review website 👼🏻"MovieDo"👼🏻 using JSON files & React.
 </h2>
 
-</br>
-
-
-
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your favorite movie, its rating and its short description in our 
-https://github.com/garimasingh128/Hacktoberfest2020-MovieDo/tree/master/src/data/data.json
-and that counts as your first PR. 🎯
-</br>
 
 ## Just 5 simple steps to earning your t-shirt for Hacktoberfest 2020 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the `src/data/data.json` file in your code editor of choice.
-2. 🎯Add another json object in the same format of your favourite movie
+1. 🎯Open the folder of your choice. Each folder is a category you can work and contribute in.
+2. 🎯Build anything. We welcome all - Tutorials, Examples, Games, Diagrams, Use-Cases etc. !
 3. 🎯Save your changes.
-4. 🎯The movie card will appear on your homepage at `http://localhost:8000`!
-5. 🎯Done! Ready to create your pull request?
+4. 🎯Follow the instructions below to make a new PR ! 
+5. 🎯Weekly review done on Sunday 11:00 AM IST. If the PR makes a significant contributions, we will merge it !
 
-## Features 💪🏼
-+ Uses [Bulma CSS](https://bulma.io/).
-+ Minimalist Design.
-+ 100% Responsive
-+ Complete separation of data & code.
-+ View it [live](https://moviedo.netlify.app)
+## Want to add a new category ? Go ahead ! No issues! 💪
+## Want to add a new quantum computing book ? Go ahead ! No issues! 💪
+## Want to suggesst some changes in design ? Go ahead ! Open a new ISSUE ! We are have no issues! 💪
+## Want to change the 'CONTRIBUTING.md' ? Go ahead ! Open a PR ! No issues! 💪🏼
 
 ## Contributing to Hacktoberfest 2020 👨🏼‍💻
  <img src="hacktober.png" />
  
-### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
+### 💻 Also, we would be planning to host some webinars and open-group discussions on Quantum Computing and related topics. Open an empty PR with name - Let's Talk !  
 
 <img src="contribution.jpg">
 
@@ -112,7 +98,7 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 ###### At this point, you can now modify existing files or add new files to the project on your own branch.
 ###### Make sure you have read the <a href="CONTRIBUTING.md">contributing.md</a> before you start contributing such that you make remarkable and easily acceptable PRs.
 
-### 5.  Make Changes Locally & Add them
+### 5. 👇🏻Make Changes Locally & Add them
 
 ###### Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made:
 
@@ -186,4 +172,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# 🤪 🤨 🧐 🤓 😎 Thanks to our awesome contributors 🤪 🤨 🧐 🤓 😎
+#  🤓  Thanks to our awesome contributors  🤓 
