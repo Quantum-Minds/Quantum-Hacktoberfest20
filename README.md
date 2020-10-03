@@ -40,18 +40,10 @@ and that counts as your first PR. 🎯
 
 ## Contributing to Hacktoberfest 2020 👨🏼‍💻
  <img src="hacktober.png" />
- Open source is changing the world - one pull request at a time.
-🧑🏼‍🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
-
-</br>
-
-```
-🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
-```
-
+ 
 ### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
 
-### 💻 Make all Pull requests to the "develop" branch only. Let's maintain a stable master branch that is deployed. Changes would be merged later on to the master branch.
+<img src="contribution.jpg">
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2019
@@ -120,7 +112,7 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 ###### At this point, you can now modify existing files or add new files to the project on your own branch.
 ###### Make sure you have read the <a href="CONTRIBUTING.md">contributing.md</a> before you start contributing such that you make remarkable and easily acceptable PRs.
 
-#### 5.  Make Changes Locally & Add them
+### 5.  Make Changes Locally & Add them
 
 ###### Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made:
 
@@ -165,16 +157,16 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.netlify.com/)&nbsp;
 Voila!
 
-## 👬 Owner
+## 👬 Innovation Courtesy to - 
 
-<a href="https://github.com/garimasingh128"><img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width="100px;" alt=""/><br /><sub><b>Garima Singh</b></sub></a>
+<a href="https://github.com/ajay-cogsci"><img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width="100px;" alt=""/><br /><sub><b>Ajay Agarwal</b></sub></a>
 </br>
-👩‍🎓 Junior | 💻 Aspiring Software Developer | 📲 Shipping code since 2018 | Open-Source Mentor 💜 | DevRel 🌤️
+👩‍🎓 Undergraduate CS&E Student | 💻 Open-Source Contributor | 💌 Qiskit is bae :)	 | ❤️ Psychology Lover  | Introvert & HSP 🌤️
 
 ## 🙅🏼‍♂️ License 🗣
 The MIT License (MIT)
 
-Copyright (c) 2020 Garima Singh MovieDo
+Copyright (c) 2020 Ajay Agarwal QuantumMinds
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
