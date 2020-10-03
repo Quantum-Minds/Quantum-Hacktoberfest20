@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://moviedo.netlify.app">MovieDo🧙🏻‍♂️ 🧙🏻‍♀️</a> "Get movie reviews at a click 🎯"
+   **Quantum Hacktoberfest 2020** - *Qubits, You & Open-Source*
 </h1>
 
 
@@ -120,13 +120,7 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 ###### At this point, you can now modify existing files or add new files to the project on your own branch.
 ###### Make sure you have read the <a href="CONTRIBUTING.md">contributing.md</a> before you start contributing such that you make remarkable and easily acceptable PRs.
 
-#### Make Changes Locally. For ex- 
-
-
-###### CAUTION: JSON files follow a certain format, do not forget to add a comma before you start editing your block and it's good if you append a comma after finishing your block.
-
-#### Also, if you are interested in making intermediate or advanced level contributions, head to our <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/tree/master/Intermediate">intermediate section</a> and make your mark.
-
+#### 5.  Make Changes Locally & Add them
 
 ###### Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made:
 
@@ -147,37 +141,6 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 
 
 
-###### At this point you can use the git push command to push the changes to the current branch of your forked repository:
-###### ` Example:`
-##### ` git push --set-upstream origin new-branch `
-
-
-
-
-### 5. 👇🏻Update Local Repository
-
-###### While working on a project alongside other contributors, it is important for you to keep your local repository up-to-date with the project as you don’t want to make a pull request for code that will cause conflicts. To keep your local copy of the code base updated, you’ll need to sync changes.
-
-###### We’ll first go over configuring a remote for the fork, then syncing the fork.
-
-### 6. 👇🏻Configure a Remote for the Fork
-
-###### Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
-
-##### ` git remote add upstream https://github.com/garimasingh128/Hacktoberfest2020-MovieDo`
-
-
-
-
-###### In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
-
-### 7. 👇🏻Sync the Fork
-
-###### Once you have configured a remote that references the upstream and original repository on GitHub, you are ready to sync your fork of the repository to keep it up-to-date.
-###### To sync your fork, from the directory of your local repository in a terminal window, you’ll have to use the // git fetch // command to fetch the branches along with their respective commits from the upstream repository. Since you used the shortname “upstream” to refer to the upstream repository, you’ll have to pass that to the command:
-
-##### ` git fetch upstream `
-
 ###### Switch to the local master branch of our repository:
 
 ##### ` git checkout master `
@@ -186,7 +149,7 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 
 ##### ` git merge upstream/master `
 
-### 8. 👇🏻Create Pull Request
+### 6. 👇🏻Create Pull Request
 
 ###### At this point, you are ready to make a pull request to the original repository. Make PRs' to the develop branch only!
 
@@ -194,17 +157,10 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
-## Happy?? Star ⭐ this Repo. 🤩
+## Happy?? Star ⭐ this Repo. 🤩 for future updates on Quantum Computing and Hacktoberfest'20 !
 
 ## 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
-
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://hacktoberfest.netlify.com/)
-
-
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.netlify.com/)&nbsp;
 Voila!
