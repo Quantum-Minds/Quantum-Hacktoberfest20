@@ -134,7 +134,7 @@ Voila!
 
 ## 👬 Innovation Courtesy to - 
 
-<a href="https://github.com/ajay-cogsci"><img src="https://drive.google.com/file/d/1f9sCR90ms4Fwf5J3R7nuRuy2ljCAjcOk/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Ajay Agarwal</b></sub></a>
+<a href="https://github.com/ajay-cogsci"><img src="pic_ajay.jpg" width="100px;" alt=""/><br /><sub><b>Ajay Agarwal</b></sub></a>
 </br>
 👩‍🎓 Undergraduate CS&E Student | 💻 Open-Source Contributor | 💌 Qiskit is bae :)	 | ❤️ Psychology Lover  | Introvert & HSP 🌤️
 
