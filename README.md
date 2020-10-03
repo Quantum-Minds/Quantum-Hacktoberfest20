@@ -3,12 +3,11 @@
 </h1>
 
 
-![Author](https://img.shields.io/badge/author-ajay-cogsci-orange)
 
 <img src="main_poster.jpg" />
 
 <h2 align="center">
-  A responsive movie review website 👼🏻"MovieDo"👼🏻 using JSON files & React.
+  Open-Source forum for all those who love Quantum Computing and enjoy Hacktoberfest as well !
 </h2>
 
 
@@ -36,18 +35,7 @@
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
 
-### 2. 👇🏻Getting Started
-#### See Our Website at: https://hacktoberfest.netlify.com/
-
-
-#### Move to Instructions by clicking on the <pre>START CONTRIBUTING</pre> button 
-
-
-
-#### Read the Instructions and click Done at the end to move to the repository or <a href="https://github.com/garimasingh128/Hacktoberfest2020-MovieGo">click here</a> to head to the repository.
-
-
-### 3. 👇🏻Star and Fork this Repository
+### 2. 👇🏻Star and Fork this Repository
 ###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
 
@@ -62,22 +50,21 @@
 
 ###### We’ll use the `git clone`  command along with the URL that points to your fork of the repository.
 
-###### This URL will be similar to the URL above, except now it will end with `.git.` In the example above, the URL will look like this:
-https://github.com/your-username/Hacktoberfest2020-MovieDo.git
+###### This URL will be similar to the URL above, except now it will end with `.git.`
 
 ###### You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL.
 
 ###### Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 
-`git clone https://github.com/your-username/Hacktoberfest2020-MovieDo.git`
+`git clone https://github.com/your-username/Quantum-Hacktoberfest20.git`
 
 
 
 ### 4. 👇🏻Create a New Branch
 
-###### To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Hacktoberfest2020-MovieDo) to change into that directory.
+###### To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository to change into that directory.
 
-#####    ` cd Hacktoberfest2020-MovieDo`
+#####    ` cd Quantum-Hacktoberfest20`
 
 
 ###### Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
@@ -133,7 +120,8 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
-## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
+## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃 Take a print of this certificate below to flaunt your new accomplishment !
+
 
 ## Happy?? Star ⭐ this Repo. 🤩 for future updates on Quantum Computing and Hacktoberfest'20 !
 
