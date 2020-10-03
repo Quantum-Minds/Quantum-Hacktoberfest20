@@ -121,6 +121,7 @@
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃 Take a print of this certificate below to flaunt your new accomplishment !
+<img src="certificate.jpg" />
 
 
 ## Happy?? Star ⭐ this Repo. 🤩 for future updates on Quantum Computing and Hacktoberfest'20 !
@@ -133,7 +134,7 @@ Voila!
 
 ## 👬 Innovation Courtesy to - 
 
-<a href="https://github.com/ajay-cogsci"><img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width="100px;" alt=""/><br /><sub><b>Ajay Agarwal</b></sub></a>
+<a href="https://github.com/ajay-cogsci"><img src="https://drive.google.com/file/d/1f9sCR90ms4Fwf5J3R7nuRuy2ljCAjcOk/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Ajay Agarwal</b></sub></a>
 </br>
 👩‍🎓 Undergraduate CS&E Student | 💻 Open-Source Contributor | 💌 Qiskit is bae :)	 | ❤️ Psychology Lover  | Introvert & HSP 🌤️
 
