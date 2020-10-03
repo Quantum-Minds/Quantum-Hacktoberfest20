@@ -9,7 +9,7 @@
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
 ![GitHub issues](https://img.shields.io/github/issues/garimasingh128/Hacktoberfest2020-MovieDo?logo=github)
 
-<img src="main_poster.png" />
+<img src="main_poster.jpg" />
 
 <h2 align="center">
   A responsive movie review website 👼🏻"MovieDo"👼🏻 using JSON files & React.
