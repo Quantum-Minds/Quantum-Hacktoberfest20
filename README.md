@@ -31,7 +31,7 @@
 <img src="contribution.jpg">
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
-### 1. 👇🏻Register yourself for Hacktoberfest 2019
+### 1. 👇🏻Register yourself for Hacktoberfest 2020
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
 
